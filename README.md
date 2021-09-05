@@ -16,3 +16,13 @@ C#.
 <a href="https://dev.to/zachsnoek" target="_blank">
     <img src="https://img.icons8.com/windows/32/a5adf7/dev.png"/>
 </a>
+
+---
+
+### Recent blog posts 📚
+
+<!-- BLOG POSTS -->
+
+* [Making list formatting easy with Intl.ListFormat](https://blog.zachsnoek.com/making-list-formatting-easy-with-intllistformat)
+* [Converting values to boolean using !! (double NOT)](https://blog.zachsnoek.com/converting-values-to-boolean-using-double-not)
+* [Understanding JavaScript Prototypes](https://blog.zachsnoek.com/understanding-javascript-prototypes)
