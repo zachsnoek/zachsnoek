@@ -1,9 +1,7 @@
 ## Hey, I'm Zach! 👋🏻
 
-I'm a software engineer based in Bellingham, WA. I currently work at
-* [Using local NPM packages as dependencies with yalc](https://hashnode.com/post/ckt7q0l050l7q95s1dsvgejp9)
-[Faithlife](https://faithlife.com/careers) where I write JavaScript, React, and
-C#.
+I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife](https://faithlife.com/careers) where I write JavaScript, React, and C#.
+
 <a href="https://www.zachsnoek.com" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/32/a5adf7/globe--v1.png"/>
 </a>
