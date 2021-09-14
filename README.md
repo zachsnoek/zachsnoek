@@ -1,4 +1,4 @@
-## Hey, I'm Zach! 👋🏻
+# Hey, I'm Zach! 👋🏻
 
 I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife](https://faithlife.com/careers) where I write JavaScript, React, and C#.
 
@@ -17,7 +17,7 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife]
 
 ---
 
-### Recent blog posts 📚
+## Recent blog posts 📚
 
 <!-- BLOG POSTS -->
 
@@ -25,7 +25,7 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife]
 * [Using local NPM packages as dependencies with yalc](https://hashnode.com/post/ckt7uffuc0ls895s1fxtdfhag)
 * [Making list formatting easy with Intl.ListFormat](https://blog.zachsnoek.com/making-list-formatting-easy-with-intllistformat)
 
-### Now playing 🎧
+## Now playing 🎧
 
 |![](https://spotify-readme.azurewebsites.net/api/get-current-track)|
 |-|
