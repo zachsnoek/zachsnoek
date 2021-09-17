@@ -27,5 +27,5 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife]
 
 ## Now playing 🎧
 
-|![](https://spotify-readme.azurewebsites.net/api/get-current-track)|
+|[![](https://spotify-readme.azurewebsites.net/api/get-current-track)](https://open.spotify.com/user/zachsnoek)|
 |-|
