@@ -21,9 +21,9 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife]
 
 <!-- BLOG POSTS -->
 
+* [How to build an HTTP-triggered function with Azure Functions](https://hashnode.com/post/ckux5s42o025n6cs1bi24e74l)
 * [Build a meme generator with JavaScript and Fabric.js](https://hashnode.com/post/cktaiu3qj06i67ts1af77gn07)
 * [Using local NPM packages as dependencies with yalc](https://hashnode.com/post/ckt7uffuc0ls895s1fxtdfhag)
-* [Making list formatting easy with Intl.ListFormat](https://blog.zachsnoek.com/making-list-formatting-easy-with-intllistformat)
 
 ## Now playing 🎧
 
