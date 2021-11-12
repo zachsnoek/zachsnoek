@@ -17,13 +17,15 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife]
 
 ---
 
-## Recent blog posts 📚
+## Recent blog posts on blog.zachsnoek.com 📚
 
 <!-- BLOG POSTS -->
 
 * [CSS em and rem units #CSSforJS](https://hashnode.com/post/ckv8axeph01kxg8s18j9l9knf)
 * [How to build an HTTP-triggered function with Azure Functions](https://hashnode.com/post/ckux5s42o025n6cs1bi24e74l)
 * [Build a meme generator with JavaScript and Fabric.js](https://hashnode.com/post/cktaiu3qj06i67ts1af77gn07)
+
+You can also find my writing on [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
 
 ## Now playing 🎧
 
