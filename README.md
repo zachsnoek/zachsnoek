@@ -21,9 +21,9 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife]
 
 <!-- BLOG POSTS -->
 
-* [Creating Custom React Hooks: useForm](https://hashnode.com/post/ckw4g3ps108ntvqs1fsk19h3g)
 * [CSS em and rem units #CSSforJS](https://hashnode.com/post/ckv8axeph01kxg8s18j9l9knf)
 * [How to build an HTTP-triggered function with Azure Functions](https://hashnode.com/post/ckux5s42o025n6cs1bi24e74l)
+* [Build a meme generator with JavaScript and Fabric.js](https://hashnode.com/post/cktaiu3qj06i67ts1af77gn07)
 
 You can also find my writing on [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
 
