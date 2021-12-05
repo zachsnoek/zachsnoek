@@ -21,9 +21,9 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife]
 
 <!-- BLOG POSTS -->
 
+* [Understanding box-sizing in CSS](https://hashnode.com/post/ckwtn9rht0eissms14hdh0las)
 * [Four tips for staying motivated while learning](https://hashnode.com/post/ckwb1nzbb0008z5s10p3kgjiq)
 * [CSS em and rem units #CSSforJS](https://hashnode.com/post/ckv8axeph01kxg8s18j9l9knf)
-* [How to build an HTTP-triggered function with Azure Functions](https://hashnode.com/post/ckux5s42o025n6cs1bi24e74l)
 
 You can also find my writing on [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
 
