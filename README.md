@@ -21,9 +21,9 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Faithlife]
 
 <!-- BLOG POSTS -->
 
+* [An Overview of CSS Positioning Schemes](https://hashnode.com/post/ckybwkirg0g81f8s11eggb2qj)
 * [Understanding box-sizing in CSS](https://hashnode.com/post/ckwtn9rht0eissms14hdh0las)
 * [Four tips for staying motivated while learning](https://hashnode.com/post/ckwb1nzbb0008z5s10p3kgjiq)
-* [CSS em and rem units #CSSforJS](https://hashnode.com/post/ckv8axeph01kxg8s18j9l9knf)
 
 You can also find my writing on [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
 
