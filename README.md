@@ -21,9 +21,9 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Aloft](htt
 
 <!-- BLOG POSTS -->
 
+* [Understanding tagged template literals in JavaScript](https://hashnode.com/post/cl183j08m09h2kpnv7rphgphy)
 * [Returning null from Task-returning methods in C#](https://hashnode.com/post/ckydbuica00ejr1s146u78wqp)
 * [An Overview of CSS Positioning Schemes](https://hashnode.com/post/ckybwkirg0g81f8s11eggb2qj)
-* [Understanding box-sizing in CSS](https://hashnode.com/post/ckwtn9rht0eissms14hdh0las)
 
 You can also find my writing on [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
 
