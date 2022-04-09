@@ -21,9 +21,9 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Aloft](htt
 
 <!-- BLOG POSTS -->
 
+* [When to use logical OR vs. nullish coalescing in JavaScript](https://hashnode.com/post/cl1sc613w06n8svnvb7h91752)
 * [Understanding tagged template literals in JavaScript](https://hashnode.com/post/cl183j08m09h2kpnv7rphgphy)
 * [Returning null from Task-returning methods in C#](https://hashnode.com/post/ckydbuica00ejr1s146u78wqp)
-* [An Overview of CSS Positioning Schemes](https://hashnode.com/post/ckybwkirg0g81f8s11eggb2qj)
 
 You can also find my writing on [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
 
