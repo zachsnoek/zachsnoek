@@ -26,8 +26,3 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Aloft](htt
 * [Understanding tagged template literals in JavaScript](https://hashnode.com/post/cl183j08m09h2kpnv7rphgphy)
 
 You can also find my writing on [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
-
-## Now playing 🎧
-
-|[![](https://spotify-readme.azurewebsites.net/api/get-current-track)](https://open.spotify.com/user/zachsnoek)|
-|-|
