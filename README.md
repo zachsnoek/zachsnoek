@@ -25,4 +25,4 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Aloft](htt
 * [Understanding Symbols in JavaScript](https://hashnode.com/post/cl2plqrk701ezannv851mfjvy)
 * [When to use logical OR vs. nullish coalescing in JavaScript](https://hashnode.com/post/cl1sc613w06n8svnvb7h91752)
 
-You can also find my writing on [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
+You can also find my writing on [LogRocket](https://blog.logrocket.com/author/zachsnoek/) and [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
