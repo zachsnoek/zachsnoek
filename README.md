@@ -21,8 +21,8 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Aloft](htt
 
 <!-- BLOG POSTS -->
 
-* [JavaScript Quirks, Vol. 1: The typeof operator](https://hashnode.com/post/cl4u2tpin0cnk8unvh8he8ma4)
-* [Understanding Symbols in JavaScript](https://hashnode.com/post/cl2plqrk701ezannv851mfjvy)
-* [When to use logical OR vs. nullish coalescing in JavaScript](https://hashnode.com/post/cl1sc613w06n8svnvb7h91752)
+* [JavaScript Quirks, Vol. 1: The typeof operator](https://blog.zachsnoek.com/javascript-quirks-vol-1-the-typeof-operator)
+* [Understanding Symbols in JavaScript](https://blog.zachsnoek.com/understanding-symbols-in-javascript)
+* [When to use logical OR vs. nullish coalescing in JavaScript](https://blog.zachsnoek.com/when-to-use-logical-or-vs-nullish-coalescing-in-javascript)
 
 You can also find my writing on [LogRocket](https://blog.logrocket.com/author/zachsnoek/) and [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
