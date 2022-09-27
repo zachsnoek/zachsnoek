@@ -21,8 +21,8 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Aloft](htt
 
 <!-- BLOG POSTS -->
 
+* [How to convert an array to an object in JavaScript with Object.fromEntries](https://zachsnoek.com/blog/convert-array-to-object-with-object-fromentries)
 * [JavaScript Quirks, Vol. 1: The typeof operator](https://blog.zachsnoek.com/javascript-quirks-vol-1-the-typeof-operator)
 * [Understanding Symbols in JavaScript](https://blog.zachsnoek.com/understanding-symbols-in-javascript)
-* [When to use logical OR vs. nullish coalescing in JavaScript](https://blog.zachsnoek.com/when-to-use-logical-or-vs-nullish-coalescing-in-javascript)
 
 You can also find my writing on [LogRocket](https://blog.logrocket.com/author/zachsnoek/) and [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
