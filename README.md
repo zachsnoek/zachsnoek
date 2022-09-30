@@ -17,7 +17,7 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Aloft](htt
 
 ---
 
-## Recent blog posts on blog.zachsnoek.com 📚
+## Recent blog posts on zachsnoek.com 📚
 
 <!-- BLOG POSTS -->
 
