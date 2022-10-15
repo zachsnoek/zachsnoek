@@ -21,8 +21,8 @@ I'm a software engineer based in Bellingham, WA. I currently work at [Aloft](htt
 
 <!-- BLOG POSTS -->
 
+* [How to create a habit tracker with Twilio Functions and Notion](https://zachsnoek.com/blog/create-a-habit-tracker-with-twilio-functions-and-notion)
 * [How to convert an array to an object in JavaScript with Object.fromEntries](https://zachsnoek.com/blog/convert-array-to-object-with-object-fromentries)
 * [JavaScript Quirks, Vol. 1: The typeof operator](https://blog.zachsnoek.com/javascript-quirks-vol-1-the-typeof-operator)
-* [Understanding Symbols in JavaScript](https://blog.zachsnoek.com/understanding-symbols-in-javascript)
 
 You can also find my writing on [LogRocket](https://blog.logrocket.com/author/zachsnoek/) and [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/)!
