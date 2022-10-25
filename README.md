@@ -22,9 +22,9 @@
 
 <!-- BLOG POSTS -->
 
+* [for...in vs. for...of in JavaScript](https://zachsnoek.com/blog/for-in-vs-for-of)
 * [How to create a habit tracker with Twilio Functions and Notion](https://zachsnoek.com/blog/create-a-habit-tracker-with-twilio-functions-and-notion)
 * [How to convert an array to an object in JavaScript with Object.fromEntries](https://zachsnoek.com/blog/convert-array-to-object-with-object-fromentries)
-* [JavaScript Quirks, Vol. 1: The typeof operator](https://blog.zachsnoek.com/javascript-quirks-vol-1-the-typeof-operator)
 
 ## 🌟 Featured posts
 
