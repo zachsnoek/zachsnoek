@@ -22,9 +22,9 @@
 
 <!-- BLOG POSTS -->
 
+* [useReducer reducer functions without the switch](https://zachsnoek.com/blog/reducer-functions-without-the-switch)
 * [for...in vs. for...of in JavaScript](https://zachsnoek.com/blog/for-in-vs-for-of)
 * [How to create a habit tracker with Twilio Functions and Notion](https://zachsnoek.com/blog/create-a-habit-tracker-with-twilio-functions-and-notion)
-* [How to convert an array to an object in JavaScript with Object.fromEntries](https://zachsnoek.com/blog/convert-array-to-object-with-object-fromentries)
 
 ## 🌟 Featured posts
 
