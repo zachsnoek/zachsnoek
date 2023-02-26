@@ -4,7 +4,7 @@
 
 🏡 I'm currently building the future of real estate appraisal at [Aloft](https://aloftappraisal.com/careers) with React, TypeScript, and Node.
 
-📝 I frequently write about code on my [blog](https://www.zachsnoek.com/blog) and for publications such as [Twilio](https://www.twilio.com/blog/author/zach-snoek), [LogRocket](https://blog.logrocket.com/author/zachsnoek/), and [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/).
+📝 I frequently write about code on my [blog](https://www.zachsnoek.com/blog) and for publications such as [Twilio's blog](https://www.twilio.com/blog/author/zach-snoek), [LogRocket's blog](https://blog.logrocket.com/author/zachsnoek/), and [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/).
 
 <a href="https://www.zachsnoek.com" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/32/a5adf7/globe--v1.png"/>
