@@ -6,6 +6,8 @@
 
 📝 I frequently write about code on my [blog](https://www.zachsnoek.com/blog) and for publications such as [Twilio's blog](https://www.twilio.com/blog/author/zach-snoek), [LogRocket's blog](https://blog.logrocket.com/author/zachsnoek/), and [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/).
 
+📜 View my resume [here](https://z7k.io/r)
+
 <a href="https://www.zachsnoek.com" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/32/a5adf7/globe--v1.png"/>
 </a>
