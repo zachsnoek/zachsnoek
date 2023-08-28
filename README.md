@@ -1,6 +1,6 @@
 # 👋🏻 Hey, I'm Zach!
 
-👨🏻‍💻 I'm a software engineer based in Bellingham, WA.
+👨🏻‍💻 I'm a software engineer based in Detroit, MI.
 
 🏡 I'm currently building the future of real estate appraisal at [Aloft](https://aloftappraisal.com/careers) with React, TypeScript, and Node.
 
