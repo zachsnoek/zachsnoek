@@ -1,8 +1,6 @@
 # 👋🏻 Hey, I'm Zach!
 
-👨🏻‍💻 I'm a software engineer based in Detroit, MI.
-
-🏡 I'm currently building the future of real estate appraisal at [Aloft](https://aloftappraisal.com/careers) with React, TypeScript, and Node.
+👨🏻‍💻 I'm a self-starting Senior Software Engineer who spearheads complex, cross-functional projects from ideation to launch. I have extensive startup experience, and thrive in fast-paced, ambiguous environments that demand ownership.
 
 📝 I frequently write about code on my [blog](https://www.zachsnoek.com/blog) and for publications such as [Twilio's blog](https://www.twilio.com/blog/author/zach-snoek), [LogRocket's blog](https://blog.logrocket.com/author/zachsnoek/), and [freeCodeCamp](https://www.freecodecamp.org/news/author/zachsnoek/).
 
