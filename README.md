@@ -12,9 +12,9 @@
 
 <!-- BLOG POSTS -->
 
+* [Financial Tips and Lessons Learned from My Post-Layoff Sabbatical](https://zachsnoek.com/blog/tips-and-lessons-learned-from-my-sabbatical)
 * [useReducer reducer functions without the switch](https://zachsnoek.com/blog/reducer-functions-without-the-switch)
 * [for...in vs. for...of in JavaScript](https://zachsnoek.com/blog/for-in-vs-for-of)
-* [How to create a habit tracker with Twilio Functions and Notion](https://zachsnoek.com/blog/create-a-habit-tracker-with-twilio-functions-and-notion)
 
 ## 🌟 Featured posts
 
