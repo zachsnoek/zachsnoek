@@ -12,9 +12,9 @@
 
 <!-- BLOG POSTS -->
 
+* [](https://zachsnoek.com/blog/)
 * [useReducer reducer functions without the switch](https://zachsnoek.com/blog/reducer-functions-without-the-switch)
 * [for...in vs. for...of in JavaScript](https://zachsnoek.com/blog/for-in-vs-for-of)
-* [How to create a habit tracker with Twilio Functions and Notion](https://zachsnoek.com/blog/create-a-habit-tracker-with-twilio-functions-and-notion)
 
 ## 🌟 Featured posts
 
